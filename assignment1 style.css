@@ -1,0 +1,41 @@
+*{margin:1;
+padding:5;
+
+   }
+
+body {
+    background-image:file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/img/img/mkk-1.jpg;)
+    background-size: cover;
+
+    height: 500px;
+    background-repeat: no-repeat;
+   }
+.navbar{background-color:grey; 
+height:50px;width:750px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: aliceblue;
+}
+.logo{font-size: 10px;
+font-weight: 100;
+margin-left: 10px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.home{
+    font-family: cursive;
+    font-size:10px;
+    padding:1px;
+}
+.search{ height: 10px; width: 100px;margin-right: 10px; 
+    padding: 5px;
+    font-family: cursive;
+   font-color:red;}
+  .table{height:5px; width:5%;justify-content:center;}
+  .table,th,td{ border:1px solid black;}
+  
+
+ tr:hover{background-color:grey;}
+ td:hover{background-color:pink;}
+h1{allign:center;}
+th{background-color:#ffdfd5;
+ .button1{background-color:green;border:3px;cursor:pointer;}
